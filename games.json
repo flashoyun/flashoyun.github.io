@@ -1,0 +1,192 @@
+{
+  "mcloud-version": 1,
+  "mcloud-arch": "flutter-web",
+  "games": [
+    {
+      "id": "0001",
+      "name": "Ateş ve Su 1 - In the Forest Templates",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/comtal/swf-archive/blob/main/Ate%C5%9F%20ve%20Su%20-%201%20-The%20Forest%20Temple.swf?raw=true"
+    },
+    {
+      "id": "0002",
+      "name": "Ateş ve Su 2 - In the Light Temple",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/comtal/swf-archive/blob/main/Ate%C5%9F%20ve%20Su%20-%202%20-%20In%20The%20Light%20Temple.swf?raw=true"
+    },
+    {
+      "id": "0003",
+      "name": "Ateş ve Su 3 - The Ice Temple",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/comtal/swf-archive/blob/main/Fireboy%20and%20Watergirl%203%20-%20The%20Ice%20Temple.swf?raw=true"
+    },
+        {
+      "id": "0004",
+      "name": "Ateş ve Su 4 - In the Crystal Temple",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/comtal/swf-archive/blob/main/Ate%C5%9F%20ve%20Su%20-%204%20-%20In%20The%20Crystal%20Temple.swf?raw=true"
+    },
+    {
+      "id": "0004",
+      "name": "Papas Pizzeria",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/SJRNoodles/Flash-Game-Archive/blob/master/Papas%20Pizzeria.swf?raw=true"
+    },
+    {
+      "id": "0005",
+      "name": "Tactical Assasin I",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/tactical-assassin-250817f.swf"
+    },
+    {
+      "id": "0006",
+      "name": "Tactical Asassin II",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/tactical-assassin-2-1603817f.swf"
+    },
+    {
+      "id": "0007",
+      "name": "Tactical Asassin III ",
+      "author": "mcloud-admin",
+      "rss": "https://archive.org/download/armorgames/tactical-assassin-3-10695f2f2.swf"
+    },
+    {
+      "id": "0008",
+      "name": "Tactical Assasin MO",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/tactical-assassin-mo-1481305b0.swf"
+    },
+    {
+      "id": "0009",
+      "name": "Tactical Assasin SU",
+      "author": "mcloud-admin",
+      "rss": "https://archive.org/download/armorgames/tactical-assassin-su-2500817f.swf"
+    },
+    {
+      "id": "0010",
+      "name": "Hambo",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hambo-10759f2f2.swf"
+    },
+    {
+      "id": "0011",
+      "name": "Electric Man II",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/electric-man-2-540817f.swf"
+    },
+    {
+      "id": "0012",
+      "name": "Icycle",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/icycle-158731c95.swf"
+    },
+    {
+      "id": "0013",
+      "name": "Raze",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/raze-53959cba.swf"
+    },
+    {
+      "id": "0014",
+      "name": "Raze II",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/raze-2-12275fdd9.swf"
+    },
+    {
+      "id": "0015",
+      "name": "Raze III",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/raze-3-15979abf4.swf"
+    },
+    {
+      "id": "0016",
+      "name": "Happy Wheels",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/happy-wheels_20210204/HappyWheels.swf"
+    },
+    {
+      "id": "0017",
+      "name": "Pacman",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/SJRNoodles/Flash-Game-Archive/blob/master/pacman.swf?raw=true"
+    },
+    {
+      "id": "0018",
+      "name": "Ducklife I",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/SJRNoodles/Flash-Game-Archive/blob/master/pacman.swf?raw=true"
+    },
+    {
+      "id": "0019",
+      "name": "2048 Basic",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/SJRNoodles/Flash-Game-Archive/blob/master/2048%20(1).swf?raw=true"
+    },
+    {
+      "id": "0020",
+      "name": "Weapon",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/weapon-50319cba.swf"
+    },
+    {
+      "id": "0021",
+      "name": "Weapon of Mathsdes",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/weapon-50319cba.swf"
+    },
+    {
+      "id": "0022",
+      "name": "Run II",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/SJRNoodles/Flash-Game-Archive/blob/master/run2.swf?raw=true"
+    },
+    {
+      "id": "0023",
+      "name": "Habo",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo-2529817f.swf"
+    },
+    {
+      "id": "0024",
+      "name": "Habo III - Wanted",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo3-wanted-5673395b.swf"
+    },
+    {
+      "id": "0025",
+      "name": "Habo IV - Total War",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo-4-total-war-749179f9.swf"
+    },
+    {
+      "id": "0026",
+      "name": "Habo V - Space Brawls",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo-5-space-brawls--11410f2f2.swf"
+    },
+    {
+      "id": "0027",
+      "name": "Habo VI - Hell",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo-6-hell-136403467.swf"
+    },
+    {
+      "id": "0028",
+      "name": "Habo VII - Heaven",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo-7-heaven-1440405b0.swf"
+    },
+    {
+      "id": "0029",
+      "name": "Habo VIII - Prison Brawl",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://archive.org/download/armorgames/hobo-prison-brawl-49539cba.swf"
+    },
+    {
+      "id": "0030",
+      "name": "Kaktüs Adam",
+      "author": "16.12.2022 tarihinde yüklendi.",
+      "rss": "https://github.com/comtal/swf-archive/blob/main/dagobah_cactus_man.swf?raw=true"
+    }
+  ]
+}
